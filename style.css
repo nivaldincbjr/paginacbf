@@ -1,7 +1,7 @@
 body {
 background-color: aliceblue;
 font-family:Arial, Helvetica, sans-serif;
-text-align: center;
+text-align: justify;
 }
 h1{
 color: rgb(16, 163, 16);
@@ -30,5 +30,4 @@ text-align: center;
 }
 p{
 font-family:Arial, Helvetica, sans-serif;
-margin: 50px;
 }
